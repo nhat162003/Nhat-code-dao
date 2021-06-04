@@ -3,7 +3,7 @@ const CONFIG = {
     introDesc: `Nhóc con
     Ấn vào xem dính virut ko`,
     btnIntro: 'À Láo, chắc sợ',
-    title: 'Trả lời hoặc pay fb',
+    title: 'Trả lời or bay facebook',
     desc: 'Chào anh Khoa đz đê ',
     btnYes: 'Vâng ạ <33',
     btnNo: 'Có cl đ*t con bà m :3',
