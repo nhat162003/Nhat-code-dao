@@ -2,7 +2,7 @@ const CONFIG = {
     introTitle: 'Ê!',
     introDesc: `Nhóc con
     Ấn vào xem dính virut ko`,
-    btnIntro: 'hihi',
+    btnIntro: 'Bố m lại sợ',
     title: 'Dám Ấn cơ ghê',
     desc: 'Chào anh Nhất đz đê ',
     btnYes: 'Vâng ạ <33',
