@@ -1,17 +1,17 @@
 const CONFIG = {
-    introTitle: 'Ê!',
-    introDesc: `Nhóc con
-    Ấn vào xem dính virut ko`,
-    btnIntro: 'À Láo, chắc sợ',
+    introTitle: 'Ây !',
+    introDesc: `Có 1 
+    vài câu hỏi nè `,
+    btnIntro: 'Ừm, hỏi đi',
     title: 'Trả lời không thì mất fb',
-    desc: 'Chào anh Khoa đz đê ',
-    btnYes: 'Vâng ạ <33',
-    btnNo: 'Có cl đ*t con bà m :3',
-    question:'Giờ nói gì về anh đi',
-    btnReply: 'Gửi cho anh nè',
-    reply: 'Anh Khoa đẹp trai nhất Tân Thanh ahihihihihihihi em nói thật đấy ',
-    mess: 'Đồ vô văn HÓa',
-    messDesc: 'Em ngoan lắm.',
-    btnAccept: 'HiHi cảm ơn anh Khoa',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    desc: 'Mình là người ntn ? ',
+    btnYes: 'Con nghiện mang tên N.V.Nhất',
+    btnNo: 'Hiền lành này, tốt bụng ...',
+    question:'Ờ, nghiện đấy dỗi rồi xin lỗi đê',
+    btnReply: 'Xin lỗi mà hihi',
+    reply: 'Méo xin lỗi đấy, Nhất cave chos điên ai thèm xin lỗi hừ .....',
+    mess: 'Mình dỗi thật đấy :(',
+    messDesc: '( Đùa thôi hehe <3 ).',
+    btnAccept: 'Ấn vào đây sẽ hiện ra 1 công túa *-*',
+    messLink: 'https://www.facebook.com/profile.php?id=100011324557318'
 }
