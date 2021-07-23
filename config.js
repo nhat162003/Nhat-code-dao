@@ -7,7 +7,7 @@ const CONFIG = {
     desc: 'Mình là người ntn ? ',
     btnYes: 'Con nghiện mang tên N.V.Nhất',
     btnNo: 'Hiền lành này, tốt bụng ...',
-    question:'Ờ, nghiện đấy dỗi rồi xin lỗi đê',
+    question:'Ờ, nghiện đấy dỗi rồi xin lỗi đê (nhớ viết thật lòng đấy)',
     btnReply: 'Xin lỗi mà hihi',
     reply: 'Méo xin lỗi đấy, Nhất cave chos điên ai thèm xin lỗi hừ .....',
     mess: 'Mình dỗi thật đấy :(',
