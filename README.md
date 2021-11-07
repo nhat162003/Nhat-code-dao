@@ -18,7 +18,7 @@ const CONFIG = {
     desc: 'Phải chăng em đã say quả tóc xoăn Tân Thanh từ khi anh cắt tóc? ',
     btnYes: 'Không vì t iu a Khoa đz',
     btnNo: 'kooo e thật sự vẫn iu a mà Nhất',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3 hí',
+    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3 hí hí',
     btnReply: 'euto .....',
     reply: 'Euto cái đmm oni- chan ít thôi',
     mess: 'nói thế thôi chứ ...',
