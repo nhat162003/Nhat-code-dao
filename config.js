@@ -11,7 +11,7 @@ const CONFIG = {
     btnNo: 'kooo e thật sự vẫn iu a mà Nhất',
     question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3 hí hí',
     btnReply: 'euto .....',
-    reply: 'Euto cái đmm oni- chan ít thôi',
+    reply: 'Euto cái đmm oni-chan ít thôi',
     mess: 'nói thế thôi chứ ...',
     messDesc: 'Cho a xem tivi thì xem xét lại hihi .',
     btnAccept: 'Okiiiii lun <3',
