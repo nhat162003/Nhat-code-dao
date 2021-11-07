@@ -1,17 +1,19 @@
 const CONFIG = {
-    introTitle: 'Ây !',
-    introDesc: `Có 1 
-    vài câu hỏi nè `,
-    btnIntro: 'Ừm, hỏi đi',
-    title: 'Trả lời không thì mất fb',
-    desc: 'Mình là người ntn ? ',
-    btnYes: 'Con nghiện mang tên N.V.Nhất',
-    btnNo: 'Hiền lành này, tốt bụng ...',
-    question:'Ờ, nghiện đấy dỗi rồi xin lỗi đê (nhớ viết thật lòng đấy)',
-    btnReply: 'Xin lỗi mà hihi',
-    reply: 'Méo xin lỗi đấy, Nhất cave chos điên ai thèm xin lỗi hừ .....',
-    mess: 'Mình dỗi thật đấy :(',
-    messDesc: '( Đùa thôi hehe <3 ).',
-    btnAccept: 'Ấn vào đây sẽ hiện ra 1 công túa *-*',
-    messLink: 'https://www.facebook.com/profile.php?id=100011324557318'
+    introTitle: 'Nhất đz vl kk !',
+    introDesc: `Trái đất vốn lạ thường
+    Mà sao em cứ nhìn anh Khoa
+    Làm anh lẻ loi
+    Mặc dù em biết trym a to hơn`,
+    btnIntro: 'Ok a 1 đz',
+    title: 'Phải chăng em bị ngu',
+    desc: 'Phải chăng em đã say quả tóc xoăn Tân Thanh từ khi anh cắt tóc? ',
+    btnYes: 'Không vì t iu a Khoa đz',
+    btnNo: 'kooo e thật sự vẫn iu a mà Nhất',
+    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3 hí hí',
+    btnReply: 'euto .....',
+    reply: 'Euto cái đmm oni- chan ít thôi',
+    mess: 'nói thế thôi chứ ...',
+    messDesc: 'Cho a xem tivi thì xem xét lại hihi .',
+    btnAccept: 'Okiiiii lun <3',
+    messLink: 'http://fb.com' //https://www.facebook.com/profile.php?id=100064698457174
 }
