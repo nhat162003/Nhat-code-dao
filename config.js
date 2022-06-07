@@ -14,7 +14,7 @@ const CONFIG = {
     btnReply: 'euto .....',
     reply: 'Euto cái đmm oni-chan ít thôi',
     mess: 'nói thế thôi chứ ...',
-    messDesc: 'Cho a xem tivi thì xem xét lại hihi .',
+    messDesc: 'Cho a xem tii thì xem xét lại hihi .',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'http://fb.com' //https://www.facebook.com/profile.php?id=100064698457174
 }
